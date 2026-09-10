@@ -1,5 +1,1 @@
-name = "portf-lio-online"
-compatibility_date = "2026-09-10"
 
-[assets]
-directory = "./"
